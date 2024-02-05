@@ -1,0 +1,24 @@
+.contact{
+    padding: 60px;
+    background-color: rgb(4, 44, 67);
+   color: aliceblue;
+}
+.info h3{
+    font-weight: bold;
+    
+    padding: 20px 0;
+}
+.info p{
+    font-size: 21px;
+}
+.icons i{
+   padding: 9px;
+   margin: 4px;
+   font-size: 15px; 
+   border: solid whitesmoke 1px;
+   border-radius:50% ;
+}
+.footer-end {
+    background-color: rgb(5, 25, 36);
+    
+}

@@ -1,0 +1,30 @@
+.about{
+    background-color: rgb(61, 125, 105);
+    height: 84vh;
+
+}
+.about h2 {
+    position: relative;
+  }
+  .about h2::before {
+      left: 206px;
+      content: "";
+      position: absolute;
+      width: 90px;
+      height: 4px;
+      top: 127px;
+    background-color: whitesmoke;
+  
+  }
+  
+  .about h2::after {
+    content: "";
+    position: absolute;
+    width: 90px;
+    height: 4px;
+    top: 127px;
+  
+    background-color: whitesmoke;
+    right: 206px;
+  } 
+  

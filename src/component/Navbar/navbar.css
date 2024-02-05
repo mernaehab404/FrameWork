@@ -1,0 +1,12 @@
+/* #navbar-ex{
+  position: fixed;
+  width: 100%;
+  z-index: 99;
+} */
+.navbar {
+  background-color: rgb(4, 44, 67);
+}
+.active {
+  background-color: rgb(61, 125, 105);
+  border-radius: 30%;
+}
